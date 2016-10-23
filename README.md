@@ -17,3 +17,9 @@ My 3rd flag I changed is for Hong Kong. For this one I only changed the colour a
 Finally, I altered Canada’s flag. I changed the way the two stripes are facing. As one of Canada’s main values is equality and the symbol for equality is an equals sign, I designed their flag to reflect this.
 
 ![4](https://cloud.githubusercontent.com/assets/22593770/19627541/0a21fb7a-9941-11e6-8cbb-38780d5f8980.jpg)
+
+# UnionHack
+
+### Jake's Links To Flag Presentation below. Enjoy.
+
+[Presentation](https://spark.adobe.com/index.html#design/page/780243bb-b982-413a-904f-6820811688cf)
